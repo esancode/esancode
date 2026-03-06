@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Erick](https://github.com/esancode), a full-stack developer based in Irecê/Bahia.
+I'm [Erick](https://github.com/esancode), a web developer based in Irecê/Bahia.
 
 I focus on building scalable applications and solving complex problems with clean code.
 

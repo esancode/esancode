@@ -15,6 +15,7 @@ I am constantly releasing new features — I am building more than [25] public r
 If you want to see what I'm currently working on, [meu portfólio](https://esancode.github.io/projeto-portifolio/#) is available here!
 
 Fun Facts:
+
 🏠 I'm a big fan of cinematografic style
 
 ☕ I prefer hot chocolate over anything else

@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://esancode.github.io/projeto-portifolio/#"><img src="https://img.shields.io/badge/Acessar_Portfólio-%231E3A8A.svg?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://busqe.com/sites-tst/labs/erick_portifolio/"><img src="https://img.shields.io/badge/Acessar_Portfólio-%231E3A8A.svg?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 

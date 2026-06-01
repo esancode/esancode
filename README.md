@@ -74,7 +74,7 @@ Tenho focado minhas energias em dominar a fundo a stack **MERN**, desenvolvendo 
 | :---: | :--- |
 | 🎬 | **Estética e cinema:** Sou apaixonado pelo estilo cinematográfico e direção de arte. |
 | ☕ | **Combustível:** Um bom chocolate quente sempre ganha do café clássico para mim. |
-| 📺 | **Referência Ficção:** *Black Mirror* é minha série favorita (uma visão fascinante sobre nossa relação com a tecnologia). |
+| 📺 | **Referência Ficção:** *Game of Thrones* é minha série favorita. |
 | 🧩 | **Desconexão:** Meus hobbies incluem passar tempo de qualidade com a família, Jogos de Tabuleiro e o prazer de *construir coisas* fora das telas. |
 
 <p align="center">

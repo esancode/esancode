@@ -66,19 +66,20 @@
   <h3>🦦 Lontra</h3>
   <p>A developer-focused note and organization tool with AI-powered formatting.</p>
   <p><code>React · Node.js · MongoDB · Claude AI</code></p>
-  <a href="#"><strong>Live project</strong></a>
+  <a href="https://lontra-ml6j.onrender.com/" target="_blank"><strong>Live project</strong></a>
 </blockquote>
 
 <blockquote>
   <h3>💎 DAILLÊ</h3>
   <p>E-commerce website for a Brazilian jewelry brand, focused on product presentation, regional SEO and WhatsApp-based sales.</p>
-  <a href="#"><strong>Live project</strong></a>
+  <a href="https://daille.com.br" target="_blank"><strong>Live project</strong></a>
 </blockquote>
 
 <blockquote>
   <h3>🤖 Precora</h3>
   <p>A price-monitoring bot that tracks products and finds offers using automation and AI.</p>
   <p><code>Python · PostgreSQL · Docker</code></p>
+  <p><em>Work in progress...</em></p>
 </blockquote>
 
 <br>
